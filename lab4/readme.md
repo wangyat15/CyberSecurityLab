@@ -1,5 +1,5 @@
 # Cyber Security Lab 4
-Web Security
+## Web Security
 
 ## Lab Description
 This lab aims to identify and exploit vulnerabilities in the OWASP Juice Shop, a deliberately insecure web application designed to showcase various common web application attacks, including SQL injection, XSS vulnerabilities, broken authentication, broken access control, and sensitive data exposure.

@@ -13,11 +13,11 @@ To understand common types of web security vulnerabilities, how attacks can be e
 - [Burp Suite Proxy](https://portswigger.net/burp/documentation/desktop/getting-started)
 - [OWASP Zed Attack Proxy (ZAP)](https://www.zaproxy.org/)
 
+## Screens of OWSAP Juice Shop
 
+OWSAP Juice Shop
+<img src="https://github.com/wangyat15/CyberSecurityLab/blob/c12448a6763faea51a32ba33f8438265d53d0aec/lab4/Juice%20Shop1.png" width="300"/>
 
-<img src="https://github.com/wangyat15/eContent/blob/41057d3404c9afcda8e37064da43a4efc4db170a/image/Camtasia-image1.jpg" width="300"/>
-
-
-
-<img src="lab4/Juice Shop1.png" width="300"/>
+Score Board of OWASP Juice Shop - Solved challenges with difficulty 3 to 5 stars
+<img src="https://github.com/wangyat15/CyberSecurityLab/blob/c12448a6763faea51a32ba33f8438265d53d0aec/lab4/Juice%20Shop1.png" width="300"/>
 

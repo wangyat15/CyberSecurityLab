@@ -23,7 +23,7 @@ OWSAP Juice Shop
 
 
 
-Score Board of OWASP Juice Shop - Solved challenges with difficulty 3 to 5 stars
+Score Board of OWASP Juice Shop - Solved challenges with difficulty 4 to 6 stars
 
 <img src="https://github.com/wangyat15/CyberSecurityLab/blob/9ab32cce74ee6a35f7858afedb97fa15904596d3/lab4/Juice%20Shop2.png" width="500"/>
 

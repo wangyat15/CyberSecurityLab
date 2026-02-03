@@ -14,6 +14,6 @@
 - Execute a remote buffer overflow
 - Understand basic software security
 
-## [Lab4 Web Security](
+## [Lab4 Web Security](lab4)
 - Learn the risks and threats on web
 - Study the hands on approach to identify vulnerable web services

@@ -1,5 +1,5 @@
 # Cyber Security Tasks and Projects
-## Lab1 Cryptography
+## [Lab1 Cryptography](lab1/readme.md)
 - Study historial and modern cyptographic algorithms
 - Methods to analyze encrypted text
 

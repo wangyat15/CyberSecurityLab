@@ -14,5 +14,5 @@ To understand common types of web security vulnerabilities, how attacks can be e
 - [OWASP Zed Attack Proxy (ZAP)](https://www.zaproxy.org/)
 
 
-<img src="https://github.com/wangyat15/eContent/blob/41057d3404c9afcda8e37064da43a4efc4db170a/image/Camtasia-image1.jpg" width="300"/>
+<img src="lab4/Juice Shop1.png" width="300"/>
 

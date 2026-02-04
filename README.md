@@ -3,7 +3,7 @@
 - Study historial and modern cryptographic algorithms
 - Methods to analyze encrypted text
 
-## [Lab2 Man-in-the-Middle Attacks](lab2)
+## [Lab2 Man-in-the-Middle Attacks](lab2/writeup.md)
 - study man-in-the-middle attacks in switch networks
 - Understand the address resolution with ARP
 - Generate IP packets containing spoofed information

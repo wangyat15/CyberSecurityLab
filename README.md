@@ -8,7 +8,7 @@
 - Understand the address resolution with ARP
 - Generate IP packets containing spoofed information
 
-## Lab3 Buffer Overflow Attacks
+## [Lab3 Buffer Overflow Attacks](lab3/writeup.md)
 - Understand programming with C++ and assembler
 - Understand program flow and memory on stack and heap
 - Execute a remote buffer overflow

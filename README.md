@@ -1,6 +1,6 @@
 # Cyber Security Tasks and Projects
 ## [Lab1 Cryptography](lab1/readme.md)
-- Study historial and modern cyptographic algorithms
+- Study historial and modern cryptographic algorithms
 - Methods to analyze encrypted text
 
 ## Lab2 Man-in-the-Middle Attacks

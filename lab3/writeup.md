@@ -91,6 +91,7 @@ Buffer overflow attacks occur when data exceeds the allocated buffer's size, pot
 
 ### System-Level Techniques
 - Non-Executable Stack
+
   Description: Marks stack memory as non-executable, preventing execution of injected code.
   Implementation: enabled in modern CPUs, can mark segments of memory as non-executable.
 

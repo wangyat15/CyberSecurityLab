@@ -93,29 +93,40 @@ Buffer overflow attacks occur when data exceeds the allocated buffer's size, pot
 - Non-Executable Stack
 
   Description: Marks stack memory as non-executable, preventing execution of injected code.
+  
   Implementation: enabled in modern CPUs, can mark segments of memory as non-executable.
 
 - Stack Canaries
+
   Description: Places a small, known value (canary) just before the buffer on the stack. If this value is altered, the program recognizes a potential overflow and terminates.
+
   Implementation: Compiler flags can be set (e.g., using `-fstack-protector` in GCC) to enable canary checks.
 
 - Stack Randomization
+
   Description: Shuffles the stack layout randomly to make it harder for attackers to predict memory addresses.
+
   Implementation: Changes the order or position of stack variables at runtime, often integrated with other techniques like ASLR.
 
 - Address Space Layout Randomization (ASLR)
+
   Description: Randomizes the memory address space used by system and application processes, making it difficult for attackers to predict the location of critical data structures.
+
   Implementation: Usually a part of kernel-level security features in modern operating systems.
 
 ### Software-Level Techniques
 - Input Length Checking
+
   Description: Validates the size of input before processing. If input length exceeds buffer size, the program denies the input or truncates it.
+
   Implementation:
   * Use functions that limit input size (e.g., `strncpy` instead of `strcpy`).
   * Implement explicit checks to ensure the data fits within the buffer's capacity.
 
 - Safe Functions
+
   Description: Utilize safer functions and libraries that automatically manage buffer sizes and prevent overflows.
+
   Implementation: Use libraries designed to minimize risk, such as `safe-string` libraries that provide functions with built-in length checks.
 
 Employing both system-level and software-level techniques creates multiple layers of defense, making it increasingly difficult for attackers to exploit vulnerabilities.
